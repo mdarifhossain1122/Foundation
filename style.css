@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/**Header section**/
+.head-section{
+    background-image: url(https://preview.colorlib.com/theme/foundation2/images/xworld-dotted-map.png.pagespeed.ic.aOyFca_Pqv.webp) !important;
+    background-color: navy !important;
+}
+.nav-item a{
+    color: white !important;
+}
+.dropdown-item{
+    color: black !important;
+}
+.logistic{
+    font-size: 60px;
+}
