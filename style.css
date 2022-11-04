@@ -12,9 +12,13 @@
 .nav-item a{
     color: white !important;
 }
-.dropdown-item{
+.dropdown-menu .dropdown-item{
     color: black !important;
 }
 .logistic{
     font-size: 60px;
+    margin-top: 150px;
+}
+.air-sea{
+    padding-bottom: 150px;
 }
