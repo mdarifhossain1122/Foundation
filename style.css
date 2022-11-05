@@ -7,7 +7,7 @@
 /**Header section**/
 .head-section{
     background-image: url(https://preview.colorlib.com/theme/foundation2/images/xworld-dotted-map.png.pagespeed.ic.aOyFca_Pqv.webp) !important;
-    background-color: navy !important;
+    background-color: rgb(8, 8, 64) !important;
 }
 .nav-item a{
     color: white !important;
@@ -21,4 +21,32 @@
 }
 .air-sea{
     padding-bottom: 150px;
+}
+
+
+/**Hero section**/
+.freight{
+    margin-top: -90px !important;
+    
+}
+.air-freight{
+    width: 420px !important;
+    margin-right: 20px;
+}
+.sea-freight{
+    width: 420px !important;
+    margin-right: 20px;
+}
+.land-freight{
+    width: 420px !important;
+}
+.read a{
+    text-decoration: none;
+    color: rgb(9, 9, 49);
+}
+.read i{
+    background-color: rgb(7, 7, 43);
+    color: white;
+    padding: 2px 3px;
+    margin-left: 20px;
 }
