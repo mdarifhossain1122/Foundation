@@ -69,6 +69,67 @@
     padding-bottom: 10px !important;
 }
 
+/**Footer section**/
+.ftr-section{
+    padding-top: 150px;
+}
+.link a{
+    text-decoration: none;
+    color: black;
+}
+.company a{
+    text-decoration: none;
+    color: black;
+}
+.fa-facebook{
+    color: black;
+    font-size: 30px;
+    margin-right: 10px;
+}
+.fa-twitter{
+    color: black;
+    font-size: 30px;
+    margin-right: 10px;
+}
+.fa-instagram{
+    color: black;
+    font-size: 30px;
+    margin-right: 10px;
+}
+.fa-linkedin{
+    color: black;
+    font-size: 30px;
+    margin-right: 10px;
+}
+.fa-internet-explorer{
+    color: black;
+    font-size: 30px;
+    margin-right: 10px;
+}
+.fa-youtube{
+    color: black;
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
